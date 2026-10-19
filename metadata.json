@@ -1,0 +1,6 @@
+{
+  "name": "SENA English: Accounting Job Video Presentation",
+  "description": "Interactive slide presentation for SENA Accounting and Financial Information Management apprentices preparing their professional job application video in English.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
